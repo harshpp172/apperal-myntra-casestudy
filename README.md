@@ -1,1 +1,1 @@
-# apperal-myntra-casestudy
+# Apperal-myntra-casestudy
